@@ -1,17 +1,6 @@
 # may16
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/Iskandarrcode/Olx_Elonlar_Page_Mobil_App/assets/153985172/9e691f26-2f02-4c74-95cf-0e6aa863730a
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Olx_Elonlar_Page_Mobil_App
